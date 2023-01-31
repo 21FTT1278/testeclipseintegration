@@ -7,4 +7,16 @@ public class Gittest {
 		ClassA classa = new ClassA("uwu rawr x3 i like dergs galore nyehehehe");
 		System.out.println(classa.getAbc());
 	}
-}
+	
+	public void bird() {
+		
+		String bird = "the biggest";
+		System.out.println(bird);
+	}
+	
+	public void bee() {
+	
+	String bee = "berry benson";
+	System.out.println("you like jazz?");
+	}
+	}
