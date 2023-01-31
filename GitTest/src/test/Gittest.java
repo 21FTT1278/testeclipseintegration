@@ -7,4 +7,11 @@ public class Gittest {
 		ClassA classa = new ClassA("ABbababababababa");
 		System.out.println(classa.getAbc());
 	}
+	
+	public void bird() {
+		
+		String bird = "the biggest";
+		System.out.println(bird);
+		
+	}
 }
