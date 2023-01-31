@@ -12,6 +12,11 @@ public class Gittest {
 		
 		String bird = "the biggest";
 		System.out.println(bird);
-		
 	}
-}
+	
+	public void bee() {
+	
+	String bee = "berry benson";
+	System.out.println("you like jazz?");
+	}
+	}
